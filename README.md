@@ -1,5 +1,3 @@
-
-
 Using Incremental PCA to reduce dimensions of the MNIST Dataset
 1. Loading and Converting the Dataset
 •	Dataset: The dataset is in ARFF format, containing 70,000 rows and 785 columns (with the last column being the target label).
